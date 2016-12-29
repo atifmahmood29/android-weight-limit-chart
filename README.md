@@ -11,4 +11,6 @@ LimitLineChart mChart = (LimitLineChart) findViewById(R.id.chart1);
   
   mChart.drawGraph();
   
-For more detail visit web site: http://wisdomitsol.com/blog/android/android-weight-limit-chart
+For more detail visit web site: <a href="http://wisdomitsol.com/blog/android/android-weight-limit-chart">Android Weight Limit Chart</a>
+
+<img src="http://wisdomitsol.com/wp-content/uploads/2016/12/weight-limit-chart-300x141.png" alt="Android limit chart" />
